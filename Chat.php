@@ -1,0 +1,1 @@
+<?php // WebSocket Chat class ?>
